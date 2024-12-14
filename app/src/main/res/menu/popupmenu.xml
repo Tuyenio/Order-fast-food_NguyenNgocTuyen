@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ppAccept"
+        android:contentDescription="@string/home"
+        android:icon="@drawable/home"
+        android:title="Xác nhận đã nhận được hàng!"
+       />
+
+    <item
+        android:id="@+id/ppDelete"
+        android:contentDescription="@string/discount"
+        android:icon="@drawable/pricing"
+        android:title="Hủy đơn hàng"
+       />
+</menu>
